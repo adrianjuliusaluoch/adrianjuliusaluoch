@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adrianjuliusaluoch
+- 👋 Hi, I’m Adrian Julius Aluoch.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Data Science and Data Analytics.
 - 💞️ I’m looking to collaborate on Data Science Projects.
