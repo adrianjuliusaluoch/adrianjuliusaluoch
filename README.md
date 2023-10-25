@@ -5,7 +5,8 @@
 - 📫 How to reach me adrianjuliusaluoch@yahoo.com
 
   <br/>
-<b>My GitHub Stats</b>
+
+<b>GitHub Stats</b>
 
 <a href="http://www.github.com/adrianjuliusaluoch"><img src="https://github-readme-stats.vercel.app/api?username=adrianjuliusaluoch&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aluoch Adrian Julius GitHub Stats" /></a>
 
