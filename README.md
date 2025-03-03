@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Adrian Julius Aluoch.
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Data Science and Data Analytics.
-- 💞️ I’m looking to collaborate on Data Science Projects.
-- 📫 How to reach me adrianjuliusaluoch@yahoo.com
+- 👀 I’m interested in Data Science & Analytics.
+- 🌱 I’m currently learning Data Analytics.
+- 📫 How to reach me adrianjuliusaluoch@gmail.com
 
   <br/>
 
