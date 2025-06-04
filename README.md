@@ -31,10 +31,12 @@ When I’m off the clock?
   - ☕ Usually with a coffee in hand while doing both
 
 If you want to talk data, dashboards, or your favorite book, I’m all ears!
+
+<div align="center">
   
 ### <b>Analytical Tool Scope</b>
 
-<div align="left">
+</div>
 
 <b>1. Databases</b>
 
@@ -55,8 +57,6 @@ If you want to talk data, dashboards, or your favorite book, I’m all ears!
 
 [<img src="https://img.icons8.com/color/512/tableau-software.png" height="50" width="50" alt="Tableau" />](https://www.tableau.com/)&nbsp;&nbsp;
 [<img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" height="50" alt="Power BI" />](https://powerbi.microsoft.com/)
-
-</div>
 
 ### <b>Let's Connect</b>
 
