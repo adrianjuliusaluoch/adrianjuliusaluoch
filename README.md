@@ -58,7 +58,11 @@ If you want to talk data, dashboards, or your favorite book, I’m all ears!
 [<img src="https://img.icons8.com/color/512/tableau-software.png" height="50" width="50" alt="Tableau" />](https://www.tableau.com/)&nbsp;&nbsp;
 [<img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" height="50" alt="Power BI" />](https://powerbi.microsoft.com/)
 
+<div align="center">
+  
 ### <b>Let's Connect</b>
+
+</div>
 
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adrianjuliusaluoch@gmail.com)
 
