@@ -30,7 +30,7 @@ If you want to talk data, dashboards, or your favorite book, I’m all ears!
 
 ### <b>2. Analytical Tool Scope</b>
 
-<div align="left">
+<div align="center">
 
 <b>1. Databases</b>
 
