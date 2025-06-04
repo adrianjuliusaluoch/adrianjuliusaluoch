@@ -10,13 +10,13 @@ Outside of work, I love playing video games. I'm also an aesthetic interior desi
 
 <u><b>Analytical Tool Scope</b></h3></u>
 
-[<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="50" alt="Google BigQuery" />](https://cloud.google.com/bigquery)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="50" width="50"/>](https://www.postgresql.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="50" width="50"/>](https://www.python.org/)
-[<img src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" height="50" width=""/>](https://www.r-project.org/)
-[<img src="https://img.icons8.com/color/512/tableau-software.png" height="50" width="50"/>](https://www.tableau.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" height="50" alt="Microsoft Excel" />](https://www.microsoft.com/excel)
-[<img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" height="50" alt="Power BI" />](https://powerbi.microsoft.com/)
+[<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="50" alt="Google BigQuery" />](https://cloud.google.com/bigquery)&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="50" width="50" alt="PostgreSQL" />](https://www.postgresql.org/)&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="50" width="50" alt="Python" />](https://www.python.org/)&nbsp;&nbsp;
+[<img src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" height="50" width="" alt="R Language" />](https://www.r-project.org/)&nbsp;&nbsp;
+[<img src="https://img.icons8.com/color/512/tableau-software.png" height="50" width="50" alt="Tableau" />](https://www.tableau.com/)&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" height="50" alt="Microsoft Excel" />](https://www.microsoft.com/excel)&nbsp;&nbsp;
+[<img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" height="50" alt="Power BI" />](https://powerbi.microsoft.com/)&nbsp;&nbsp;
 [<img src="https://google.oit.ncsu.edu/wp-content/uploads/sites/6/2021/01/Google_Sheets.max-2800x2800-1.png" height="50" alt="Google Sheets" />](https://www.google.com/sheets/about/)
 
 <b>Let's connect!</b>
