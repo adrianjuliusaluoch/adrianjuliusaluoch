@@ -31,10 +31,10 @@ When I’m off the clock?
   - ☕ Usually with a coffee in hand while doing both
 
 If you want to talk data, dashboards, or your favorite book, I’m all ears!
-
-<div align="center">
   
 ### <b>Analytical Tool Scope</b>
+
+<div align="left">
 
 <b>1. Databases</b>
 
