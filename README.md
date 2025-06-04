@@ -9,6 +9,7 @@ I'm fascinated by the impact data can make in making informed decisions and in i
 Outside of work, I love playing video games. I'm also an aesthetic interior design enthusiast and I hoard cool tech products.
 
 <b>Analytical Tool Scope</b></h3>
+
 [<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="50" alt="Google BigQuery" />](https://cloud.google.com/bigquery)&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="50" width="50" alt="PostgreSQL" />](https://www.postgresql.org/)&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="50" width="50" alt="Python" />](https://www.python.org/)&nbsp;&nbsp;
