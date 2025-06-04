@@ -10,7 +10,7 @@ What keeps me excited is seeing how data can actually drive innovation and make 
 
 When I’m not working with data, you’ll probably find me reading a good book or out on a walk—great ways to recharge and keep my mind fresh.
 
-<div align="center">
+<div align="left">
 
 ### <b>Analytical Tool Scope</b>
 
