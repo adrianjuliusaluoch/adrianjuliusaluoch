@@ -1,4 +1,8 @@
-### <center><b>Introduction</b></center>
+<div align="center">
+  
+### <b>Introduction</b>
+
+</div>
 
 <b>Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></b>
 
@@ -29,6 +33,7 @@ When I’m off the clock?
 If you want to talk data, dashboards, or your favorite book, I’m all ears!
 
 <div align="center">
+  
 ### <b>Analytical Tool Scope</b>
 
 <b>1. Databases</b>
