@@ -14,8 +14,8 @@ Outside of work, I love playing video games. I'm also an aesthetic interior desi
 #### Check out my Visualizations [Here!](https://public.tableau.com/app/profile/rafsan.ahmed8668/vizzes)
 
 #### Let's connect!
-[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@rafsanahmed2828)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/rafsanahmed28/)
+[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@adrianjuliusaluoch)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/adrian-julius-aluoch-b43184333/)
 
 <b>GitHub Statistics</b>
 
