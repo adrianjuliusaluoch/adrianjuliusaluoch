@@ -1,6 +1,6 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+<b>Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></b>
 
-I'm **Adrian Julius Aluoch**. I'm a self-taught _Data Analyst_ from Kisumu, Kenya. 📌
+I'm <b>Adrian Julius Aluoch</b>. I'm a self-taught _Data Analyst_ from Kisumu, Kenya. 📌
 
 I specialize in data cleaning, data analysis and storytelling with data through powerful visualizations. Besides being an analyst I also love to do design or build stuff on the internet.
 
@@ -8,13 +8,17 @@ I'm fascinated by the impact data can make in making informed decisions and in i
 
 Outside of work, I love playing video games. I'm also an aesthetic interior design enthusiast and I hoard cool tech products.
 
-#### Tools I Use for Data Analytics
-[<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="50" alt="Google BigQuery" />](https://cloud.google.com/bigquery) &nbsp;&ensp [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="50" width="50"/>](https://www.postgresql.org/) &nbsp;&ensp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="50" width="50"/>](https://www.python.org/) &nbsp; [<img src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" height="50" width=""/>](https://www.r-project.org/)  &nbsp;&ensp; [<img src="https://img.icons8.com/color/512/tableau-software.png" height="50" width="50"/>](https://www.tableau.com/)
+<b>Analytical Tool Scope</b>
+[<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="50" alt="Google BigQuery" />](https://cloud.google.com/bigquery)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="50" width="50"/>](https://www.postgresql.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="50" width="50"/>](https://www.python.org/)
+[<img src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" height="50" width=""/>](https://www.r-project.org/)
+[<img src="https://img.icons8.com/color/512/tableau-software.png" height="50" width="50"/>](https://www.tableau.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" height="50" alt="Microsoft Excel" />](https://www.microsoft.com/excel)
 
-#### Check out my Visualizations [Here!](https://public.tableau.com/app/profile/rafsan.ahmed8668/vizzes)
+<b>Check out my Visualizations [Here!](https://public.tableau.com/app/profile/rafsan.ahmed8668/vizzes)</b>
 
-#### Let's connect!
+<b>Let's connect!</b>
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adrianjuliusaluoch@gmail.com)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/adrian-julius-aluoch-b43184333/)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@adrianjuliusaluoch)
