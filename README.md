@@ -16,6 +16,8 @@ Outside of work, I love playing video games. I'm also an aesthetic interior desi
 [<img src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" height="50" width=""/>](https://www.r-project.org/)
 [<img src="https://img.icons8.com/color/512/tableau-software.png" height="50" width="50"/>](https://www.tableau.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" height="50" alt="Microsoft Excel" />](https://www.microsoft.com/excel)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" height="50" alt="Power BI" />](https://powerbi.microsoft.com/)
+[<img src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-ar21.svg" height="50" alt="Google Sheets" />](https://www.google.com/sheets/about/)
 
 <b>Check out my Visualizations [Here!](https://public.tableau.com/app/profile/rafsan.ahmed8668/vizzes)</b>
 
