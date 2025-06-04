@@ -31,6 +31,7 @@ If you want to talk data, dashboards, or your favorite book, I’m all ears!
 ### <b>2. Analytical Tool Scope</b>
 
 <div align="left">
+
 <b>1. Databases</b>
 
 [<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="50" alt="Google BigQuery" />](https://cloud.google.com/bigquery)&nbsp;&nbsp;
