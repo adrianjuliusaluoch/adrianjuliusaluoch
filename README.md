@@ -2,25 +2,25 @@
 
 <b>Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></b>
 
-I'm <b>Adrian Julius Aluoch</b>, a self-taught Data Analyst from Kisumu, Kenya, who geeks out on turning messy numbers into "Aha!" moments.
+I'm Adrian Julius Aluoch, a self-taught Data Analyst from Kisumu, Kenya, who geeks out on turning messy numbers into "Aha!" moments.
 
 What lights me up?
 
-🕵️‍♂️ Detective work: Hunting for patterns in raw data (SQL + Python + R are my magnifying glass)
-
-🎨 Storytelling: Building dashboards in Power BI/Tableau so data "talks" to everyone
-
-🧹 Clean-up crew: I actually enjoy wrangling messy spreadsheets (Excel & Google Sheets are my duct tape)
-
-☁️ BigQuery fan: When data gets huge, I toss it into the cloud and make friends with it
+  - 🕵️‍♂️ Detective work: Hunting for patterns in raw data (SQL + Python + R are my magnifying glass)
+  
+  - 🎨 Storytelling: Building dashboards in Power BI/Tableau so data "talks" to everyone
+  
+  - 🧹 Clean-up crew: I actually enjoy wrangling messy spreadsheets (Excel & Google Sheets are my duct tape)
+  
+  - ☁️ BigQuery fan: When data gets huge, I toss it into the cloud and make friends with it
 
 Why it matters?
 I love seeing how insights can spark real change—whether it’s helping a business grow or just making someone’s job easier. Data’s superpower is turning "Hmm?" into "Ohhh!"
 
 Off-duty?
-📖 Burning through books (thrillers or sci-fi, ideally)
-🚶‍♂️ Walking by the lake to clear my head
-☕ Probably drinking coffee while doing all of the above
+  - 📖 Burning through books (thrillers or sci-fi, ideally)
+  - 🚶‍♂️ Walking by the lake to clear my head
+  - ☕ Probably drinking coffee while doing all of the above
 
 Let’s chat data—or your favorite book!
 
