@@ -36,7 +36,7 @@ When I’m not working with data, you’ll probably find me reading a good book 
 
 </div>
 
-<b>Let's connect!</b>
+### <b>Let's Connect</b>
 
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adrianjuliusaluoch@gmail.com)
 
