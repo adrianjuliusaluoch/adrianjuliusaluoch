@@ -2,27 +2,31 @@
 
 <b>Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></b>
 
-I'm Adrian Julius Aluoch, a self-taught Data Analyst from Kisumu, Kenya, who geeks out on turning messy numbers into "Aha!" moments.
+I’m Adrian Julius Aluoch, a self-taught Data Analyst from Kisumu, Kenya, who gets a kick out of turning messy data into those satisfying “Aha!” moments.
 
-What lights me up?
+What gets me going?
 
-  - 🕵️‍♂️ Detective work: Hunting for patterns in raw data (SQL + Python + R are my magnifying glass)
+  - 🔍 Data detective: Hunting down patterns and stories hidden in raw data — I rely on SQL, Python, and R to dig deep.
   
-  - 🎨 Storytelling: Building dashboards in Power BI/Tableau so data "talks" to everyone
+  - 🎨 Storyteller: Building dashboards and visualizations with Power BI and Tableau that make data clear and accessible.
   
-  - 🧹 Clean-up crew: I actually enjoy wrangling messy spreadsheets (Excel & Google Sheets are my duct tape)
+  - 🧹 Spreadsheet wrangler: I actually enjoy cleaning and organizing data in Excel and Google Sheets — my everyday tools for taming chaos.
   
-  - ☁️ BigQuery fan: When data gets huge, I toss it into the cloud and make friends with it
+  - ☁️ BigQuery enthusiast: When data scales up, I take it to the cloud with BigQuery and make it work smarter, not harder.
 
-Why it matters?
-I love seeing how insights can spark real change—whether it’s helping a business grow or just making someone’s job easier. Data’s superpower is turning "Hmm?" into "Ohhh!"
+Why do I do this?
 
-Off-duty?
-  - 📖 Burning through books (thrillers or sci-fi, ideally)
-  - 🚶‍♂️ Walking by the lake to clear my head
-  - ☕ Probably drinking coffee while doing all of the above
+Because I love how data insights can spark real change — whether helping a business grow or making someone’s job easier. Turning “Hmm...” into “Oh, I get it!” is what drives me.
 
-Let’s chat data—or your favorite book!
+When I’m off the clock?
+
+  - 📚 Getting lost in good books (thrillers or sci-fi are my favorites)
+  
+  - 🚶‍♂️ Taking walks by the lake to clear my head and reset
+  
+  - ☕ Usually with a coffee in hand while doing both
+
+If you want to talk data, dashboards, or your favorite book, I’m all ears!
 
 <div align="left">
 
