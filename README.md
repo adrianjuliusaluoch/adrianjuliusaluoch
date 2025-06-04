@@ -1,4 +1,4 @@
-### <b>1. Introduction</b>
+### <b>Introduction</b>
 
 <b>Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></b>
 
@@ -28,7 +28,7 @@ When I’m off the clock?
 
 If you want to talk data, dashboards, or your favorite book, I’m all ears!
 
-### <b>2. Analytical Tool Scope</b>
+### <b>Analytical Tool Scope</b>
 
 <div align="center">
 
@@ -54,7 +54,7 @@ If you want to talk data, dashboards, or your favorite book, I’m all ears!
 
 </div>
 
-### <b>3. Let's Connect</b>
+### <b>Let's Connect</b>
 
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adrianjuliusaluoch@gmail.com)
 
