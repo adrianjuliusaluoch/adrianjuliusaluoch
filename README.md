@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   
 ### <b>Introduction</b>
 
@@ -32,7 +32,7 @@ When I’m off the clock?
 
 If you want to talk data, dashboards, or your favorite book, I’m all ears!
 
-<div align="center">
+<div align="left">
   
 ### <b>Analytical Tool Scope</b>
 
@@ -58,7 +58,7 @@ If you want to talk data, dashboards, or your favorite book, I’m all ears!
 [<img src="https://img.icons8.com/color/512/tableau-software.png" height="50" width="50" alt="Tableau" />](https://www.tableau.com/)&nbsp;&nbsp;
 [<img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" height="50" alt="Power BI" />](https://powerbi.microsoft.com/)
 
-<div align="center">
+<div align="left">
   
 ### <b>Let's Connect</b>
 
