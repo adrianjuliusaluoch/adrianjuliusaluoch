@@ -20,9 +20,9 @@ When I’m off the clock?
 
   - 📚 Getting lost in good books (thrillers or sci-fi are my favorites)
   
-  - 🚶‍♂️ Taking walks by the lake to clear my head and reset
+  - 🚶‍♂️ Taking walks to clear my head and reset
   
-  - ☕ Usually with a coffee in hand while doing both
+  - ☕ And yes, coffee is always the sidekick
 
 If you want to talk data, dashboards, or your favorite book, I’m all ears!
 
