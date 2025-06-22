@@ -1,9 +1,3 @@
-<div align="left">
-  
-### <b>Introduction</b>
-
-</div>
-
 <b>Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></b>
 
 I’m Adrian Julius Aluoch, a self-taught Data Analyst from Kisumu, Kenya, who gets a kick out of turning messy data into those satisfying “Aha!” moments.
