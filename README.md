@@ -4,13 +4,13 @@ I’m Adrian Julius Aluoch, a self-taught Data Analyst from Kisumu, Kenya, who g
 
 What gets me going?
 
-  - 🔍 Data detective: Hunting down patterns and stories hidden in raw data — I rely on SQL, Python, and R to dig deep.
+  - 🔍 Data Detective: Hunting down patterns and stories hidden in raw data — I rely on SQL, Python, and R to dig deep.
   
   - 🎨 Storyteller: Building dashboards and visualizations with Power BI and Tableau that make data clear and accessible.
   
-  - 🧹 Spreadsheet wrangler: I actually enjoy cleaning and organizing data in Excel and Google Sheets — my everyday tools for taming chaos.
+  - 🧹 Spreadsheet Wrangler: I actually enjoy cleaning and organizing data in Excel and Google Sheets — my everyday tools for taming chaos.
   
-  - ☁️ BigQuery enthusiast: When data scales up, I take it to the cloud with BigQuery and make it work smarter, not harder.
+  - ☁️ BigQuery Enthusiast: When data scales up, I take it to the cloud with BigQuery and make it work smarter, not harder.
 
 Why do I do this?
 
