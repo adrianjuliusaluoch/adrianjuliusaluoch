@@ -38,3 +38,5 @@ If you want to talk data, dashboards, or your favorite book, I’m all ears!
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adrianjuliusaluoch@gmail.com)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/adrian-julius-aluoch-b43184333/)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@adrianjuliusaluoch)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=adrianjuliusaluoch&theme=darkhub)
