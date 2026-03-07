@@ -1,30 +1,17 @@
 <b>Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></b>
 
-I’m Adrian Julius Aluoch, a self-taught Data Analyst from Kisumu, Kenya, who gets a kick out of turning messy data into those satisfying “Aha!” moments.
+Hi, I’m Adrian Julius Aluoch, a Data Analyst with a background in computer science and a strong foundation in statistics and data analytics.
 
-What gets me going?
+I work with SQL, Python, R, and BI tools to analyze data, uncover patterns, and turn complex datasets into insights that support better decision-making.
 
-  - 🔍 Data Detective: Hunting down patterns and stories hidden in raw data — I rely on SQL, Python, and R to dig deep.
-  
-  - 🎨 Storyteller: Building dashboards and visualizations with Power BI and Tableau that make data clear and accessible.
-  
-  - 🧹 Spreadsheet Wrangler: I actually enjoy cleaning and organizing data in Excel and Google Sheets — my everyday tools for taming chaos.
-  
-  - ☁️ BigQuery Enthusiast: When data scales up, I take it to the cloud with BigQuery and make it work smarter, not harder.
+My experience includes:
+  - Supporting students in statistical analysis, data cleaning, and data interpretation through one-on-one tutoring.
+  - Performing exploratory data analysis and predictive modeling during my AI Data Analyst internship at Excelerate
+  - Conducting statistical analysis and data management during my attachment at KEMRI-CGHR
 
-Why do I do this?
+I’ve also built data projects analyzing food price trends, household cost dynamics, real estate market trends, and agricultural input affordability in Kenya, using real market datasets to generate practical insights.
 
-Because I love how data insights can spark real change — whether helping a business grow or making someone’s job easier. Turning “Hmm...” into “Oh, I get it!” is what drives me.
-
-When I’m off the clock?
-
-  - 📚 Getting lost in good books (thrillers or sci-fi are my favorites)
-  
-  - 🚶‍♂️ Taking walks to clear my head and reset
-  
-  - ☕ And yes, coffee is always the sidekick
-
-If you want to talk data, dashboards, or your favorite book, I’m all ears!
+My toolkit includes SQL, Python, R, Excel, Google Sheets, Power BI, Tableau, and BigQuery.
 
 [<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="50" alt="Google BigQuery" />](https://cloud.google.com/bigquery)&nbsp;&nbsp;
 [<img src="https://img.icons8.com/?size=160&id=Pv4IGT0TSpt8&format=png" height="50" alt="PostgreSQL" />](https://www.postgresql.org/)
