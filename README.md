@@ -22,6 +22,14 @@ My toolkit includes SQL, Python, R, Excel, Google Sheets, Power BI, Tableau, and
 [<img src="https://img.icons8.com/color/512/tableau-software.png" height="50" width="50" alt="Tableau" />](https://www.tableau.com/)&nbsp;&nbsp;
 [<img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" height="50" alt="Power BI" />](https://powerbi.microsoft.com/)
 
+<a href="https://tinyurl.com/adrianjuliusaluoch">
+<img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adrianjuliusaluoch@gmail.com)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/adrian-julius-aluoch-b43184333/)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@adrianjuliusaluoch)
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adrianjuliusaluoch&show_icons=true&theme=default" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianjuliusaluoch&layout=compact" />
