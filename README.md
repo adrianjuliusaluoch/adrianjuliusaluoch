@@ -1,8 +1,8 @@
 <b>Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></b>
 
-I’m Adrian Julius Aluoch, a Data Analyst with a background in computer science and a strong foundation in statistics and data analytics.
+I’m Adrian Julius Aluoch, a Data Analyst with a background in Computer Science and a strong foundation in Applied Statistics and Data Analytics.
 
-I work with SQL, Python, R, and BI tools to analyze data, uncover patterns, and turn complex datasets into insights that support better decision-making.
+I work with SQL, Python, R, Excel, and BI tools to analyze data, uncover patterns, and turn complex datasets into insights that support better decision-making.
 
 My experience includes:
   - Supporting students in statistical analysis, data cleaning, and data interpretation through one-on-one tutoring.
