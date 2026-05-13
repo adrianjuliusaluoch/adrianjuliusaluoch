@@ -13,15 +13,6 @@ I’ve also built data projects analyzing food price trends, household cost dyna
 
 My toolkit includes SQL, Python, R, Excel, Google Sheets, Power BI, Tableau, and BigQuery.
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="Google BigQuery" />](https://cloud.google.com/bigquery)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />](https://www.postgresql.org/)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="Python" />](https://www.python.org/)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="R Language" />](https://www.r-project.org/)&nbsp;&nbsp;
-[<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="50" alt="Microsoft Excel" />](https://www.microsoft.com/excel)&nbsp;&nbsp;
-[<img src="https://img.icons8.com/color/48/google-sheets.png" height="50" alt="Google Sheets" />](https://www.google.com/sheets/about/)&nbsp;&nbsp;
-[<img src="https://img.icons8.com/color/48/tableau-software.png" height="50" width="50" alt="Tableau" />](https://www.tableau.com/)&nbsp;&nbsp;
-[<img src="https://img.icons8.com/color/48/power-bi.png" height="50" alt="Power BI" />](https://powerbi.microsoft.com/)
-
 [<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="50" alt="Google BigQuery" />](https://cloud.google.com/bigquery)&nbsp;&nbsp;
 [<img src="https://img.icons8.com/?size=160&id=Pv4IGT0TSpt8&format=png" height="50" alt="PostgreSQL" />](https://www.postgresql.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="Python" />](https://www.python.org/)&nbsp;&nbsp;
