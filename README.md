@@ -15,7 +15,7 @@ My toolkit includes SQL, Python, R, Excel, Google Sheets, Power BI, Tableau, and
 
 [<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="50" alt="Google BigQuery" />](https://cloud.google.com/bigquery)&nbsp;&nbsp;
 [<img src="https://img.icons8.com/?size=160&id=Pv4IGT0TSpt8&format=png" height="50" alt="PostgreSQL" />](https://www.postgresql.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="50" width="50" alt="Python" />](https://www.python.org/)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="Python" />](https://www.python.org/)&nbsp;&nbsp;
 [<img src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" height="50" alt="R Language" />](https://www.r-project.org/)&nbsp;&nbsp;
 [<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="50" alt="Microsoft Excel" />](https://www.microsoft.com/excel)
 [<img src="https://google.oit.ncsu.edu/wp-content/uploads/sites/6/2021/01/Google_Sheets.max-2800x2800-1.png" height="50" alt="Google Sheets" />](https://www.google.com/sheets/about/)&nbsp;&nbsp;
